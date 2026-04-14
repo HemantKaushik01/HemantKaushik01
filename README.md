@@ -1,110 +1,149 @@
-# 👋 Hello, I'm Hemant Kaushik
+<div align="center">
 
-A passionate **Full Stack Developer** with expertise in **Java**, **JavaScript**, and **Web Development**. I'm committed to building scalable applications and continuously improving my skills through real-world projects and coding challenges.
+# 👋 Hey there! I'm Hemant Kaushik
+
+### 🚀 Full Stack Developer | Spring Boot Backend Specialist | Java Enthusiast
+
+*Building scalable, production-ready applications with clean code and best practices*
 
 ---
 
-## 🚀 Tech Stack
+## 🎯 About Me
 
-### Languages
+I'm a **self-motivated and ambitious B.Tech CSE student** constantly honing my skills and seeking new opportunities to grow. I specialize in **Spring Boot backend development**, **full-stack web applications**, and **data structures & algorithms**.
+
+- 😊 **Pronouns:** He/Him
+- 🎓 **Currently Learning:** Spring Boot Microservices & Advanced Backend Architecture
+- 🤝 **Looking to Collaborate On:** Spring Boot Projects, Full Stack Applications & Open Source
+- 💬 **Ask Me About:** Java, Spring Boot, REST APIs, DSA, Web Development
+- 📧 **How to Reach Me:** [hemantkaushik01@gmail.com](mailto:hemantkaushik01@gmail.com)
+- 🔗 **Portfolio & Projects:** [github.com/HemantKaushik01](https://github.com/HemantKaushik01)
+
+---
+
+## 🎯 Current Focus
+
+### 🔥 Active Projects
+- 🏢 **Quantity Measurement App** - Spring Boot Backend with REST APIs
+- 📇 **Address Book App** - Spring Boot with Database Integration
+- ☕ **Coffee Corner** - Full Stack Application
+
+---
+
+## 💻 Tech Stack & Tools
+
+### Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-4285F4?style=for-the-badge&logo=algorithm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 ## 📚 Featured Projects
 
-### 🎓 Training & Learning
-- **[BridgeLabz-SIPP-Training](https://github.com/HemantKaushik01/BridgeLabz-SIPP-Training)** - Comprehensive Java fundamentals including Core-Java, OOPS, and DSA
-  - **Core-Java**: Data types, operators, loops, functions, arrays, strings, built-in functions
-  - **OOPS**: Classes, inheritance, abstraction, encapsulation, polymorphism, interfaces
-  - **DSA**: Linear/non-linear structures, sorting algorithms, time/space complexity
+### 🌟 Spring Boot Backend Projects
+- **[Quantity Measurement App](https://github.com/HemantKaushik01/QuantityMeasurementApp)** 
+  - REST APIs for unit conversions
+  - Spring Boot with MySQL integration
+  - Input validation & error handling
 
-- **[BridgeLabz-Training](https://github.com/HemantKaushik01/BridgeLabz-Training)** - Advanced Java training programs
-- **[Java-Fundamental](https://github.com/HemantKaushik01/Java-Fundamental)** - Core Java concepts and implementations
+- **[Address Book App](https://github.com/HemantKaushik01/AddressBookApp)**
+  - Contact management system
+  - CRUD operations with Spring Boot
+  - Database persistence
 
-### 💻 Full Stack Projects
-- **[Coffee_Corner](https://github.com/HemantKaushik01/Coffee_Corner)** - Full Stack application built with JavaScript
-- **[QuantityMeasurementApp](https://github.com/HemantKaushik01/QuantityMeasurementApp)** - Java-based backend with measurement unit conversions
-- **[QuantityMeasurementApp-Frontend](https://github.com/HemantKaushik01/QuantityMeasurementApp-Frontend)** - Frontend implementation with JavaScript
-- **[TBPPP-FULL-STACK](https://github.com/HemantKaushik01/TBPPP-FULL-STACK)** - Complete web development project
-- **[end-term](https://github.com/HemantKaushik01/end-term)** - Web development assignment
+- **[Coffee Corner](https://github.com/HemantKaushik01/Coffee_Corner)**
+  - Full Stack e-commerce application
+  - Frontend + Backend integration
+  - User authentication & ordering system
 
-### 🎨 Web Applications
-- **[Weather-check](https://github.com/HemantKaushik01/Weather-check)** - Real-time weather application using JavaScript and APIs
-- **[AddressBookApp](https://github.com/HemantKaushik01/AddressBookApp)** - Contact management application
+### 🎓 Learning & DSA
+- **[BridgeLabz-SIPP-Training](https://github.com/HemantKaushik01/BridgeLabz-SIPP-Training)** - Core Java, OOPS, DSA
+- **[LeetCode-Practice](https://github.com/HemantKaushik01/LeetCode-Practice)** - Algorithm problems in Java
+- **[Tree](https://github.com/HemantKaushik01/Tree)** - Tree data structures & implementations
 
-### 🏆 Competitive Programming
-- **[LeetCode-Practice](https://github.com/HemantKaushik01/LeetCode-Practice)** - Coding problems and solutions in Java
-- **[TBPPP](https://github.com/HemantKaushik01/TBPPP)** - LeetCode problem solutions
-- **[Tree](https://github.com/HemantKaushik01/Tree)** - Tree data structure implementations and problems
+### 🌐 Web Applications
+- **[Weather Check](https://github.com/HemantKaushik01/Weather-check)** - Real-time weather app with APIs
+- **[QuantityMeasurementApp-Frontend](https://github.com/HemantKaushik01/QuantityMeasurementApp-Frontend)** - React-based UI
 
 ---
 
-## 📊 Core Competencies
+## 🏆 Core Competencies
+
+### Backend Development
+✅ Spring Boot & Spring Framework  
+✅ REST API Development  
+✅ Database Design & JPA/Hibernate  
+✅ Microservices Architecture  
+✅ Maven & Gradle
 
 ### Data Structures & Algorithms
-- ✅ Linear & Non-linear Data Structures (Arrays, LinkedList, Stack, Queue, HashMap)
-- ✅ Sorting Algorithms (Merge Sort, Quick Sort, Bubble Sort)
-- ✅ Searching Algorithms
-- ✅ Time & Space Complexity Analysis
-- ✅ Tree Data Structures & Traversals
+✅ Arrays, LinkedList, Stack, Queue, HashMap  
+✅ Trees, Graphs & Graph Algorithms  
+✅ Sorting & Searching Algorithms  
+✅ Time & Space Complexity Analysis  
+✅ Problem Solving & Optimization
 
-### Object-Oriented Programming (OOPS)
-- ✅ Classes & Objects
-- ✅ Inheritance, Encapsulation, Abstraction
-- ✅ Polymorphism & Interfaces
-- ✅ Design Patterns & Principles
-
-### Web Development
-- ✅ Frontend: HTML5, CSS3, JavaScript, React
-- ✅ Responsive Design
-- ✅ API Integration
-- ✅ Full Stack Development
+### Object-Oriented Programming
+✅ Design Patterns  
+✅ SOLID Principles  
+✅ Inheritance & Polymorphism  
+✅ Exception Handling  
+✅ Multithreading
 
 ---
 
-## 🎯 Learning Journey
+## 📊 GitHub Stats
 
-I'm continuously enhancing my skills in:
-- 🔄 Advanced Java & Backend Development
-- ⚛️ React & Modern JavaScript Frameworks
-- 🗄️ Database Design & Management
-- 🚀 System Design & Scalability
-- ☁️ Cloud Technologies
+<div align="center">
 
----
+![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HemantKaushik01&show_icons=true&theme=radical&hide_border=true)
 
-## 📫 Let's Connect
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemantKaushik01&layout=compact&theme=radical&hide_border=true)
 
-- 💼 GitHub: [@HemantKaushik01](https://github.com/HemantKaushik01)
-- 📧 Feel free to reach out for collaborations and opportunities
+</div>
 
 ---
 
-## 📈 My GitHub Stats
+## 🔗 Connect With Me
 
-![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HemantKaushik01&show_icons=true&theme=radical&hide=stars)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemantKaushik01&layout=compact&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantkaushik01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemantKaushik01)
 
----
-
-## 💡 Recent Focus
-
-Currently working on:
-- Improving competitive programming skills through LeetCode
-- Building robust full-stack applications
-- Deepening knowledge in Advanced Java concepts
-- Exploring modern web development practices
+</div>
 
 ---
 
-⭐ **If you find my projects useful, please consider giving them a star!** ⭐
+## 💡 Fun Facts
+
+⚡ **"Failed many times, but I never give up!"** 🔥
+
+🚀 **From Zero to Hero:** Started with basic Java → Now building production-grade Spring Boot applications
+
+🎯 **Goal:** Become a skilled Full Stack Developer and contribute to impactful open-source projects
+
+---
+
+## 🎓 Recent Learning & Achievements
+
+- 📚 Mastered Core Java, OOPS, and DSA through BridgeLabz Training
+- 🏗️ Built multiple Spring Boot REST APIs
+- 💪 Solving competitive programming problems consistently
+- 🔄 Continuous learner - exploring Microservices & Cloud technologies
+
+---
