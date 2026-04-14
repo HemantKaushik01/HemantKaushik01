@@ -16,7 +16,6 @@ I'm a **self-motivated and ambitious B.Tech CSE student** constantly honing my s
 - 🎓 **Currently Learning:** Spring Boot Microservices & Advanced Backend Architecture
 - 🤝 **Looking to Collaborate On:** Spring Boot Projects, Full Stack Applications & Open Source
 - 💬 **Ask Me About:** Java, Spring Boot, REST APIs, DSA, Web Development
-- 📧 **How to Reach Me:** [hemantkaushik01@gmail.com](mailto:hemantkaushik01@gmail.com)
 - 🔗 **Portfolio & Projects:** [github.com/HemantKaushik01](https://github.com/HemantKaushik01)
 
 ---
