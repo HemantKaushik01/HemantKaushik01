@@ -24,8 +24,6 @@ I'm a **self-motivated and ambitious B.Tech CSE student** constantly honing my s
 | 🎓 **Currently Learning** | Spring Boot Microservices & Advanced Backend Architecture |
 | 🤝 **Looking to Collaborate On** | Spring Boot Projects, Full Stack Applications & Open Source |
 | 💬 **Ask Me About** | Java, Spring Boot, REST APIs, DSA, Web Development |
-| 📧 **Email** | hemantkaushik01@gmail.com |
-| 🔗 **GitHub** | [github.com/HemantKaushik01](https://github.com/HemantKaushik01) |
 
 ---
 
@@ -134,11 +132,8 @@ I'm a **self-motivated and ambitious B.Tech CSE student** constantly honing my s
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantkaushik01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-kaushik-b13319252/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemantKaushik01)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantkaushik01@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HemantKaushik01)
-
 </div>
 
 ---
@@ -147,7 +142,7 @@ I'm a **self-motivated and ambitious B.Tech CSE student** constantly honing my s
 
 <div align="center">
 
-⚡ **"Failed many times, but I regenerate myself every time!"** 🔥
+⚡ **"Failed many times, but I never give up..."** 🔥
 
 🚀 **From Zero to Hero:** Started with basic Java → Now building production-grade Spring Boot applications
 
